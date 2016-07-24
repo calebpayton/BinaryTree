@@ -1,0 +1,2 @@
+# BinaryTree
+This is an exercise I have started, but am stuck finding a clean solution. The problem is to print a binary tree in a clean manner that looks similar to its structure. I am able to build the tree using recursion, but have not found a way to print the tree in a nice fashion. My latest attempts at printing the tree are commented out of the code at this moment. This is simply a problem I like coming to when I have some time to kill because it stumps me every time.
